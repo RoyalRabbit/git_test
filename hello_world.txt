@@ -3,3 +3,5 @@ Hi there
 This is RoyalRabbit
 
 Adding extra comments to test GitHub
+
+Testing committing usuing visual studio code (without the -m)
